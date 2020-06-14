@@ -1,0 +1,26 @@
+{
+  "name": "atm-module-12-web-services",
+  "version": "1.0.0",
+  "description": "Automated Testing of Web Services Hometask",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeryiaStrom/ATM-module-12-Web-Services.git"
+  },
+  "author": "Valeryia Strom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeryiaStrom/ATM-module-12-Web-Services/issues"
+  },
+  "homepage": "https://github.com/valeryiaStrom/ATM-module-12-Web-Services#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "request-promise-native": "^1.0.8"
+  }
+}
